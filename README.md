@@ -1,5 +1,19 @@
 # Cyber-Threat-Intelligence-CTI-Framework
 
-This project conceptualizes, designs, and documents a structured Cyber Threat Intelligence (CTI) Framework to empower legal, technical, and security professionals with a robust, systematic approach to real-time threat intelligence.
+This project presents a streamlined, modular Cyber Threat Intelligence (CTI) Framework. It outlines a real-time, intelligence-driven approach for detecting, analyzing, and responding to cyber threats, with practical applications across legal, technical, and security domains.
 
-This CTI Framework defines a robust, layered, and intelligence-led defense model, integrating best-of-breed methodologies—from initial intelligence sourcing to operational response and continuous refinement. Each component—from HUMINT to threat hunting—is purposefully designed to enhance resilience, support legal compliance, streamline technical workflows, and fortify organizational security operations.
+**Key Features:**
+
+  Intelligence Collection: Ingests data from OSINT, HUMINT, SIGINT, and dark web sources.
+
+  Analytical Models: Uses MITRE ATT&CK, Kill Chain, Diamond Model, and Pyramid of Pain for structured threat analysis.
+
+  Legal Alignment: Applies TLP classification, evidence handling, and compliance with privacy and sharing protocols.
+
+  Technical Integration: Works with SIEM, EDR, TIPs, and SOAR platforms for automated detection and response.
+
+  Security Operations: Supports threat hunting, red teaming, and continuous defense improvement using KPIs and feedback loops.
+
+**Outcome:**
+
+A practical, scalable framework that empowers organizations to build a threat-informed defense strategy—legally compliant, technically sound, and operationally effective.
